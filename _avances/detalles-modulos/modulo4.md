@@ -7,7 +7,7 @@ Garantizar un registro preciso, validación documental y control de calidad en l
 Beneficia al área de logística y almacén, asegurando una gestión eficiente de materiales. Indirectamente, mejora la experiencia de proveedores y producción al reducir errores en la recepción.  
 
 ## ¿Qué resultado genera su módulo? ¿Es un producto o un servicio? ¿Qué características tiene?  
-Genera un servicio de recepción y control de materiales. Se caracteriza por validación documental, control de calidad y gestión de no conformidades.  
+Genera un servicio de recepción y control de materiales. Se caracteriza por validación documental, control de calidad y gestión de reportes.  
 
 ## ¿Qué recursos se emplean para obtener dicho resultado?  
 Sistemas de gestión, operarios de recepción, equipos de medición y verificación, infraestructura de almacenamiento temporal y documentación logística.  
